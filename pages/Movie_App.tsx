@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import projectImage from "../public/movieApp.jpeg";
+import projectImage from "../public/React_Movie_App.jpeg";
 
 const MovieApp: NextPage = () => {
   return (

@@ -19,8 +19,14 @@
 
 ### Application
 
+- Next.js pagination을 활용한 페이지 구성
+
 ### CSS
+
+- Tailwind CSS를 통한 스타일링
 
 ### Misc
 
 - ESLint / Prettier를 활용한 코드 관리
+
+- Create-Next-App을 통한 프로젝트 구축
